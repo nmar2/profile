@@ -21,4 +21,4 @@ is_contact: true
 
 ## Social
 
-1. [Linkedin](#)
+1. [Linkedin]:(https://www.linkedin.com/in/nicola-marinelli/)
