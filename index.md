@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<div style="text-align: center;">
+<div style="clear: both; text-align: center; margin-bottom: 20px;">
   <img class="profile-picture" src="nick.jpg">
 </div>
 
