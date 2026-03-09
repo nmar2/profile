@@ -4,8 +4,6 @@ layout: default
 
 ## About Me
 
-/* <img class="profile-picture" src="nick.jpg"> */
-
 <div style="text-align: center;">
   <img class="profile-picture" src="nick.jpg">
 </div>
