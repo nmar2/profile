@@ -4,8 +4,8 @@ layout: default
 
 ## About Me
 
-<div style="float: none; clear: both; text-align: center; margin-bottom: 20px;">
-  <img class="profile-picture" src="nick.jpg" style="float: none; width: 500px; height: auto;">
+<div style="float: none; clear: both; text-align: left; margin-bottom: 20px;">
+  <img class="profile-picture" src="nick.jpg" style="float: none; width: 600px; height: auto;">
 </div>
 
 Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
