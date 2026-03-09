@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Certifications
+/* title: Certifications */
 ---
 
 ## Certifications
