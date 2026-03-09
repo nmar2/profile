@@ -3,7 +3,14 @@
  */
 
 $accent: #FF0F00;
-$image-size: 185px;
+$image-width: 250px;   /* ← control width separately */
+$image-height: 185px;  /* ← control height separately */
+/* $image-size: 185px; */
+
+/* After (rectangle) */
+width: $image-width;
+height: $image-height;
+border-radius: 6px; /* ← optional: slight rounding, or set to 0 for sharp corners */
 
 /*
  * Build Variables, don't touch
