@@ -72,7 +72,7 @@ layout: default
       <div class="year">2023</div>
     </div>
     <div class="cert-links">
-      <a class="link" href="https://badges.iiba.org/3e32f259-a2b7-4817-8d8a-1f4f2dc9835d#acc.3SiDEQ95" target="_blank">🔗 Verify</a>
+     <a class="link" href="https://badges.iiba.org/3e32f259-a2b7-4817-8d8a-1f4f2dc9835d" target="_blank">🔗 Verify</a>
     </div>
   </div>
 
