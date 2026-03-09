@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="nick.jpg">
+<img class="profile-picture" src="nick.jpg" width="550" style="vertical-align:middle; margin-right:5px; filter:invert(29%) sepia(98%) saturate(500%) hue-rotate(180deg);">
 
 Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
 
