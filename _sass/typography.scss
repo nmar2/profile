@@ -37,16 +37,16 @@
         font-style: italic;
     }
     .profile-picture {
-        /*
-        height: $image-size;
-        width: $image-size;
-        */
+        
+        /* height: $image-size; */
+        /* width: $image-size; */
+        
         
         /* After — rectangular image */
         width: $image-width;
         height: $image-height;
 
-        position: relative;
+       /* position: relative; */
         margin: -10px 0 0 15px;
        /*  float: right; */
         /* border-radius: 50%; */
