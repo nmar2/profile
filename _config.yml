@@ -20,5 +20,7 @@ nav:
    link: "/profile/"
  - name: "Resume"
    link: "resume.pdf"
+ - name: "Certification"
+   link: "certification"
  - name: "Contact"
    link: "contact"
