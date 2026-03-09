@@ -21,4 +21,7 @@ is_contact: true
 
 ## Social
 
-1. [link]
+1. <a href="https://www.linkedin.com/in/nicola-marinelli/" target="_blank">
+   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="14" style="vertical-align:middle; margin-right:5px; filter:invert(29%) sepia(98%) saturate(500%) hue-rotate(180deg);">
+   LinkedIn
+   </a>
