@@ -10,13 +10,13 @@ layout: default
 
 Hi! I am an experienced IT professional with a University degree in Computer Science from the University of Bari (Italy).
 
-With more than 30 years of experience in the IT sector, I have held various roles — from Software Engineer and Team Leader to Business Analyst, Project Manager, and Data Analyst.
+With more than 30 years of experience in the IT sector, I have held various roles, from Software Engineer and Team Leader to Business Analyst, Project Manager, and Data Analyst.
 
 My career has taken me across some of Europe's most complex environments, collaborating with global companies and EU institutions.
 
 I have worked on large-scale data migrations, cloud migrations, data portals, telco CRM and billing systems, document management, and banking applications.
 
-In my most recent experience, I have focused on translating complex stakeholder requirements into shipped, compliant solutions — on time and on budget. I thrive where technology meets real-world impact.
+In my most recent experience, I have focused on translating complex stakeholder requirements into shipped, compliant solutions, all on time and on budget. I thrive where technology meets real-world impact.
 
 I hold an IIBA®-AAC Agile Analysis Certification along with ITIL, Scrum, Six Sigma, and other certifications, with hands-on expertise in Agile/Scrum, BPMN/UML, data modelling, Power BI, Python, Oracle, and AI-augmented analysis.
 
