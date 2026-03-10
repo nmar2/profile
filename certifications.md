@@ -156,7 +156,7 @@ layout: default
   <div class="cert-card">
     <div>
       <h3>ITIL® Foundation Certificate in IT Service Management</h3>
-      <div class="issuer">People Cert-Axelos</div>
+      <div class="issuer">People Cert - Axelos</div>
       <div class="year">2015</div>
     </div>
     <div class="cert-links">
@@ -194,7 +194,3 @@ layout: default
 </div>
 
 ---
-
-> **To add a new certification:** copy one of the `<div class="cert-card">` blocks above,
-> fill in the title, issuer, year, and update the links.
-> For PDF files, place them in a `/certifications/` folder in your repository and update the `href` path.
