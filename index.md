@@ -20,12 +20,11 @@ Outside of work, I recharge through travel, cooking, wine tasting, thermal welln
 
 ## Areas of Focus
 
-Requirements engineering, BPMN/UML modelling (ARIS, Camunda, Visio, Draw.io), REST API design
-Serviceand task managements platforms such as Confluence, Jira, Service Now, IBM Maximo 
-Agile Project Management across distributed, international and multicultural teams
-AI-augmented Business Analysis and Digital Transformation
-Cloud migration (AWS), data modelling, and Python and Power BI analytics
-EU institutional IT governance and regulatory compliance
-UX mockup design by Balsamiq
-
+- Requirements engineering, BPMN/UML modelling (ARIS, Camunda, Visio, Draw.io), REST API design
+- Service and task management platforms: Confluence, Jira, ServiceNow, IBM Maximo
+- Agile Project Management across distributed, international and multicultural teams
+- AI-augmented Business Analysis and Digital Transformation
+- Cloud migration (AWS), data modelling, Python and Power BI analytics
+- EU institutional IT governance and regulatory compliance
+- UX mockup design with Balsamiq
 
