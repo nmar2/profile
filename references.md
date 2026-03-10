@@ -199,51 +199,6 @@ layout: default
 
   <div class="cert-card">
     <div>
-      <h3>AI Eng - Building an AI Agent Generating Financial News</h3>
-      <div class="issuer">Finxster</div>
-      <div class="year">2026</div>
-    </div>
-    <div class="cert-links">
-      <a class="pdf" href="./CertCompletionBuildingAIAgentGeneratingFinancialNews.pdf" target="_blank">📄 PDF</a>
-    </div>
-  </div>
-
-  <div class="cert-card">
-    <div>
-      <h3>Agile Foundations</h3>
-      <div class="issuer">Linkedin - IIBA</div>
-      <div class="year">2023</div>
-    </div>
-    <div class="cert-links">
-     <a class="link" href="https://www.linkedin.com/learning/certificates/ff3ceffb823ef91448ffc95c9c7e9d4c603cc84115b4b3b3fb741a92b047b7cf?trk=share_certificate" target="_blank">🔗 Verify</a>
-    </div>
-  </div>
-
-  <div class="cert-card">
-    <div>
-      <h3>Power BI Essential Training</h3>
-      <div class="issuer">Linkedin</div>
-      <div class="year">2024</div>
-    </div>
-    <div class="cert-links">
-     <a class="link" href="https://www.linkedin.com/learning/certificates/d97729306b0554f545950622d611f1d36f3352f7a2817f1295ee2b317beaf039?trk=share_certificate" target="_blank">🔗 Verify</a>
-    </div>
-  </div>
-
-
-  <div class="cert-card">
-    <div>
-      <h3>Git Essential Training</h3>
-      <div class="issuer">Linkedin</div>
-      <div class="year">2020</div>
-    </div>
-    <div class="cert-links">
-     <a class="link" href="https://www.linkedin.com/learning/certificates/c75a0b9882e0d6ecbbbe34781693c487512ec7850dab8fd54024a8c124cc193a?trk=share_certificate" target="_blank">🔗 Verify</a>
-    </div>
-  </div>
-
-  <div class="cert-card">
-    <div>
       <h3>Business Process Modeling</h3>
       <div class="issuer">Linkedin - IIBA</div>
       <div class="year">2021</div>
