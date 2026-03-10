@@ -142,19 +142,28 @@ layout: default
     </div>
   </div>
 
-
+  <div class="cert-card">
+    <div>
+      <h3>Scrum Fundamentals Certified Credential</h3>
+      <div class="issuer">Issuing Organisation</div>
+      <div class="year">Year</div>
+    </div>
+    <div class="cert-links">
+      <a class="pdf" href="certifications/filename.pdf" target="_blank">📄 PDF</a>
+      <a class="link" href="https://verify-link.com" target="_blank">🔗 Verify</a>
+    </div>
+  </div>
 
 
 
   <div class="cert-card">
     <div>
       <h3>Project Management Professional (PMP)</h3>
-      <div class="issuer">Project Management Institute (PMI)</div>
-      <div class="year">Add year</div>
+      <div class="issuer">Scrum Study</div>
+      <div class="year">2016</div>
     </div>
     <div class="cert-links">
-      <a class="link" href="https://www.credly.com/users/YOUR-USERNAME" target="_blank">🔗 Credly</a>
-      <!-- <a class="pdf" href="certifications/pmp.pdf" target="_blank">📄 PDF</a> -->
+      <!-- <a class="pdf" href="certifications/ScrumFundamentalCertif_2016.pdf" target="_blank">📄 PDF</a> -->
     </div>
   </div>
 
