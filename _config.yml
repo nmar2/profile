@@ -22,5 +22,7 @@ nav:
    link: "resume.pdf"
  - name: "Certifications"
    link: "certifications"
+ - name: "References"
+   link: "references"   
  - name: "Contact"
    link: "contact"
