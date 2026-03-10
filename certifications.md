@@ -98,6 +98,16 @@ layout: default
     </div>
   </div>
 
+  <div class="cert-card">
+    <div>
+      <h3>Master of Char GPT</h3>
+      <div class="issuer">Coursiv</div>
+      <div class="year">2025</div>
+    </div>
+    <div class="cert-links">
+     <a class="link" href="https://app.coursiv.com/certificates/public/b2a3402f-42fc-447e-b8bf-186cac584cb2/en?referrer=copy-link" target="_blank">🔗 Verify</a>
+    </div>
+  </div>
 
 
   
