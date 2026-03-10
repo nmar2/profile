@@ -208,6 +208,16 @@ layout: default
     </div>
   </div>
 
+  <div class="cert-card">
+    <div>
+      <h3>Agile Foundations</h3>
+      <div class="issuer">Linkedin - IIBA</div>
+      <div class="year">2023</div>
+    </div>
+    <div class="cert-links">
+     <a class="link" href="https://www.linkedin.com/learning/certificates/ff3ceffb823ef91448ffc95c9c7e9d4c603cc84115b4b3b3fb741a92b047b7cf?trk=share_certificate" target="_blank">🔗 Verify</a>
+    </div>
+  </div>
 
 
 
