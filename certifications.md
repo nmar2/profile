@@ -119,7 +119,30 @@ layout: default
      <a class="link" href="https://app.coursiv.com/certificates/public/e3d6eff9-2237-426a-9775-6bf3f773af2f/en?referrer=copy-link" target="_blank">🔗 Verify</a>
     </div>
   </div>
-  
+
+    <div class="cert-card">
+    <div>
+      <h3>English C1</h3>
+      <div class="issuer">EF Set</div>
+      <div class="year">2026</div>
+    </div>
+    <div class="cert-links">
+     <a class="link" href="https://cert.efset.org/koLrE1" target="_blank">🔗 Verify</a>
+    </div>
+  </div>
+
+    <div class="cert-card">
+    <div>
+      <h3>French B1</h3>
+      <div class="issuer">Busuu</div>
+      <div class="year">2023</div>
+    </div>
+    <div class="cert-links">
+     <a class="link" href="https://api.busuu.com/anon/certificates/66305d592e84ea2ad0a7526d255fe2d1?lang=en">🔗 Verify</a>
+    </div>
+  </div>
+
+
 
 
 
