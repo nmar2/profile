@@ -231,6 +231,20 @@ layout: default
   </div>
 
 
+  <div class="cert-card">
+    <div>
+      <h3>Git Essential Training</h3>
+      <div class="issuer">Linkedin</div>
+      <div class="year">2020</div>
+    </div>
+    <div class="cert-links">
+     <a class="link" href="https://www.linkedin.com/learning/certificates/c75a0b9882e0d6ecbbbe34781693c487512ec7850dab8fd54024a8c124cc193a?trk=share_certificate" target="_blank">🔗 Verify</a>
+    </div>
+  </div>
+
+
+  
+
 </div>
 
 ---
