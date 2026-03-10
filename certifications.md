@@ -120,7 +120,7 @@ layout: default
     </div>
   </div>
 
-    <div class="cert-card">
+  <div class="cert-card">
     <div>
       <h3>English C1</h3>
       <div class="issuer">EF Set</div>
@@ -131,7 +131,7 @@ layout: default
     </div>
   </div>
 
-    <div class="cert-card">
+  <div class="cert-card">
     <div>
       <h3>French B1</h3>
       <div class="issuer">Busuu</div>
