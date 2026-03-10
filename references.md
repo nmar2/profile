@@ -110,7 +110,38 @@ layout: default
     </div>
   </div>
 
+  <div class="refe-card">
+    <div>
+      <h3>Reference letter IBM #1</h3>
+      <div class="issuer">IBM</div>
+      <div class="year">2014</div>
+    </div>
+    <div class="refe-links">
+      <a class="pdf" href="./RefeIBM1.pdf" target="_blank">📄 PDF</a>
+    </div>
+  </div>
 
+  <div class="refe-card">
+    <div>
+      <h3>Reference letter IBM #2</h3>
+      <div class="issuer">IBM</div>
+      <div class="year">2014</div>
+    </div>
+    <div class="refe-links">
+      <a class="pdf" href="./RefeIBM2.pdf" target="_blank">📄 PDF</a>
+    </div>
+  </div>
+
+  <div class="refe-card">
+    <div>
+      <h3>Reference letter IBM #3</h3>
+      <div class="issuer">IBM</div>
+      <div class="year">2014</div>
+    </div>
+    <div class="refe-links">
+      <a class="pdf" href="./RefeIBM3.pdf" target="_blank">📄 PDF</a>
+    </div>
+  </div>
 
 
 
