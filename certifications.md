@@ -164,20 +164,20 @@ layout: default
     </div>
   </div>
 
-
-
-
-
   <div class="cert-card">
     <div>
-      <h3>Project Management Professional (PMP)</h3>
-      <div class="issuer">Scrum Study</div>
-      <div class="year">2016</div>
+      <h3>Leveraging the Customer Relationship Certificate of Completion</h3>
+      <div class="issuer">Stanford University</div>
+      <div class="year">2014</div>
     </div>
     <div class="cert-links">
-      <!-- <a class="pdf" href="certifications/ScrumFundamentalCertif_2016.pdf" target="_blank">📄 PDF</a> -->
+      <a class="pdf" href="./LCR_Nicola Marinelli.pdf" target="_blank">📄 PDF</a>
     </div>
   </div>
+
+
+
+
 
   <div class="cert-card">
     <div>
