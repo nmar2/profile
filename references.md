@@ -68,14 +68,26 @@ layout: default
 
   <div class="refe-card">
     <div>
-      <h3>Scrum Fundamentals Certified Credential</h3>
-      <div class="issuer">Scrum Study</div>
-      <div class="year">2016</div>
+      <h3>Reference letter DG GROW #1</h3>
+      <div class="issuer">DG GROW</div>
+      <div class="year">2026</div>
     </div>
     <div class="refe-links">
-      <a class="pdf" href="./ScrumFundamentalCertif_2016.pdf" target="_blank">📄 PDF</a>
+      <a class="pdf" href="./RefeWV.pdf" target="_blank">📄 PDF</a>
     </div>
   </div>
+
+  <div class="refe-card">
+    <div>
+      <h3>Reference letter DG GROW #2</h3>
+      <div class="issuer">DG GROW</div>
+      <div class="year">2026</div>
+    </div>
+    <div class="refe-links">
+      <a class="pdf" href="./RefeDD.pdf" target="_blank">📄 PDF</a>
+    </div>
+  </div>
+
 
   
 
