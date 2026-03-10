@@ -242,7 +242,16 @@ layout: default
     </div>
   </div>
 
-
+  <div class="cert-card">
+    <div>
+      <h3>Business Process Modeling</h3>
+      <div class="issuer">Linkedin - IIBA</div>
+      <div class="year">2021</div>
+    </div>
+    <div class="cert-links">
+     <a class="link" href="https://www.linkedin.com/learning/certificates/a970e52e80670439f08c0dbe845c8f4ef552b0f81723c6ab23b4fb96ac5a5331?trk=share_certificate" target="_blank">🔗 Verify</a>
+    </div>
+  </div>
   
 
 </div>
