@@ -186,9 +186,9 @@ layout: default
     </div>
   </div>
 
-    <div class="cert-card">
+  <div class="cert-card">
     <div>
-      <h3>Introduction To Cyber Attacks</h3>
+      <h3>Introduction to Cyber Attacks</h3>
       <div class="issuer">Coursera - NYU</div>
       <div class="year">2019</div>
     </div>
@@ -196,8 +196,6 @@ layout: default
       <a class="pdf" href="./IntroductionToCyberAttacks.pdf" target="_blank">📄 PDF</a>
     </div>
   </div>
-
-
 
 
 </div>
