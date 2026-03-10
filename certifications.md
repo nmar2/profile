@@ -87,7 +87,20 @@ layout: default
     </div>
   </div>
 
+  <div class="cert-card">
+    <div>
+      <h3>Master of Claude</h3>
+      <div class="issuer">Coursiv</div>
+      <div class="year">2025</div>
+    </div>
+    <div class="cert-links">
+     <a class="link" href="https://app.coursiv.com/certificates/public/00a2e5be-3d51-4a75-98e7-9ba57efadf83/en?referrer=copy-link" target="_blank">🔗 Verify</a>
+    </div>
+  </div>
 
+
+
+  
 
 
 
