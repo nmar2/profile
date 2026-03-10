@@ -219,7 +219,16 @@ layout: default
     </div>
   </div>
 
-
+  <div class="cert-card">
+    <div>
+      <h3>Creating API Documentation</h3>
+      <div class="issuer">Linkedin</div>
+      <div class="year">2025</div>
+    </div>
+    <div class="cert-links">
+     <a class="link" href="https://www.linkedin.com/learning/certificates/7966c07bdc98ba3a5724462efc2edbe1dfaa88d07520566782904397fb09be35?trk=share_certificate" target="_blank">🔗 Verify</a>
+    </div>
+  </div>
 
 
 </div>
