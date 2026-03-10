@@ -190,17 +190,6 @@ layout: default
 
 
 
-  <div class="cert-card">
-    <div>
-      <h3>Add Certification Title</h3>
-      <div class="issuer">Issuing Organisation</div>
-      <div class="year">Year</div>
-    </div>
-    <div class="cert-links">
-      <a class="pdf" href="certifications/filename.pdf" target="_blank">📄 PDF</a>
-      <a class="link" href="https://verify-link.com" target="_blank">🔗 Verify</a>
-    </div>
-  </div>
 
 </div>
 
