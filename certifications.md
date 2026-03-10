@@ -221,12 +221,12 @@ layout: default
 
   <div class="cert-card">
     <div>
-      <h3>Creating API Documentation</h3>
+      <h3>Power BI Essential Training</h3>
       <div class="issuer">Linkedin</div>
-      <div class="year">2025</div>
+      <div class="year">2024</div>
     </div>
     <div class="cert-links">
-     <a class="link" href="https://www.linkedin.com/learning/certificates/7966c07bdc98ba3a5724462efc2edbe1dfaa88d07520566782904397fb09be35?trk=share_certificate" target="_blank">🔗 Verify</a>
+     <a class="link" href="https://www.linkedin.com/learning/certificates/d97729306b0554f545950622d611f1d36f3352f7a2817f1295ee2b317beaf039?trk=share_certificate" target="_blank">🔗 Verify</a>
     </div>
   </div>
 
