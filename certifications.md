@@ -197,6 +197,20 @@ layout: default
     </div>
   </div>
 
+  <div class="cert-card">
+    <div>
+      <h3>AI Eng - Building an AI Agent Generating Financial News</h3>
+      <div class="issuer">Finxster</div>
+      <div class="year">2026</div>
+    </div>
+    <div class="cert-links">
+      <a class="pdf" href="./CertCompletionBuildingAIAgentGeneratingFinancialNews.pdf" target="_blank">📄 PDF</a>
+    </div>
+  </div>
+
+
+
+
 
 </div>
 
