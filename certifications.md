@@ -109,7 +109,16 @@ layout: default
     </div>
   </div>
 
-
+  <div class="cert-card">
+    <div>
+      <h3>Master of Deepseek</h3>
+      <div class="issuer">Coursiv</div>
+      <div class="year">2026</div>
+    </div>
+    <div class="cert-links">
+     <a class="link" href="https://app.coursiv.com/certificates/public/e3d6eff9-2237-426a-9775-6bf3f773af2f/en?referrer=copy-link" target="_blank">🔗 Verify</a>
+    </div>
+  </div>
   
 
 
