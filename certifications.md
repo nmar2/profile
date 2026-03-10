@@ -175,8 +175,16 @@ layout: default
     </div>
   </div>
 
-
-
+  <div class="cert-card">
+    <div>
+      <h3>Six Sigma Yellow Belt</h3>
+      <div class="issuer">6 Sigma Study</div>
+      <div class="year">2016</div>
+    </div>
+    <div class="cert-links">
+      <a class="pdf" href="./6sigmaCertificate_2016.pdf" target="_blank">📄 PDF</a>
+    </div>
+  </div>
 
   
 
