@@ -1,6 +1,6 @@
 ---
 layout: default
-/* title: Certifications */
+
 ---
 
 ## Certifications
@@ -149,7 +149,7 @@ layout: default
       <div class="year">2016</div>
     </div>
     <div class="cert-links">
-      <a class="pdf" href="certifications/ScrumFundamentalCertif_2016.pdf" target="_blank">📄 PDF</a>
+      <a class="pdf" href="./ScrumFundamentalCertif_2016.pdf" target="_blank">📄 PDF</a>
     </div>
   </div>
 
