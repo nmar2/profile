@@ -143,7 +143,16 @@ layout: default
     </div>
   </div>
 
-
+  <div class="refe-card">
+    <div>
+      <h3>Reference letter GE Oil&Gas</h3>
+      <div class="issuer">GE Oil&Gas</div>
+      <div class="year">2012</div>
+    </div>
+    <div class="refe-links">
+      <a class="pdf" href="./RefeGE.pdf" target="_blank">📄 PDF</a>
+    </div>
+  </div>
 
   
 
