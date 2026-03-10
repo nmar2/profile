@@ -78,6 +78,21 @@ layout: default
 
   <div class="cert-card">
     <div>
+      <h3>IBM Experienced Project Manager </h3>
+      <div class="issuer">IBM</div>
+      <div class="year">2016</div>
+    </div>
+    <div class="cert-links">
+     <a class="link" href="https://www.youracclaim.com/badges/d9f89ee2-cc0f-47a0-b7e8-866b2f1b2d84/public_url" target="_blank">🔗 Verify</a>
+    </div>
+  </div>
+
+
+
+
+
+  <div class="cert-card">
+    <div>
       <h3>Project Management Professional (PMP)</h3>
       <div class="issuer">Project Management Institute (PMI)</div>
       <div class="year">Add year</div>
