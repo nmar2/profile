@@ -145,12 +145,11 @@ layout: default
   <div class="cert-card">
     <div>
       <h3>Scrum Fundamentals Certified Credential</h3>
-      <div class="issuer">Issuing Organisation</div>
-      <div class="year">Year</div>
+      <div class="issuer">Scrum Study</div>
+      <div class="year">2016</div>
     </div>
     <div class="cert-links">
-      <a class="pdf" href="certifications/filename.pdf" target="_blank">📄 PDF</a>
-      <a class="link" href="https://verify-link.com" target="_blank">🔗 Verify</a>
+      <a class="pdf" href="certifications/ScrumFundamentalCertif_2016.pdf" target="_blank">📄 PDF</a>
     </div>
   </div>
 
