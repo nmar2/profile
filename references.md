@@ -88,6 +88,31 @@ layout: default
     </div>
   </div>
 
+  <div class="refe-card">
+    <div>
+      <h3>Reference letter HSBC</h3>
+      <div class="issuer">HSBC</div>
+      <div class="year">2020</div>
+    </div>
+    <div class="refe-links">
+      <a class="pdf" href="./RefeHSBC.pdf" target="_blank">📄 PDF</a>
+    </div>
+  </div>
+
+  <div class="refe-card">
+    <div>
+      <h3>Reference letter EU Council</h3>
+      <div class="issuer">EU Council</div>
+      <div class="year">2019</div>
+    </div>
+    <div class="refe-links">
+      <a class="pdf" href="./RefeCouncil.pdf" target="_blank">📄 PDF</a>
+    </div>
+  </div>
+
+
+
+
 
   
 
