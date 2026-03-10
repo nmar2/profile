@@ -67,6 +67,18 @@ layout: default
 
   <div class="cert-card">
     <div>
+      <h3>University degree in Computer Science (Certified translation)</h3>
+      <div class="issuer">University of Bari (Italy)</div>
+      <div class="year">1990</div>
+    </div>
+    <div class="cert-links">
+      <a class="pdf" href="./SwornTranslation_Marinelli_EN.pdf" target="_blank">📄 PDF</a>
+    </div>
+  </div>
+
+
+  <div class="cert-card">
+    <div>
       <h3>IIBA® – Agile Analysis Certification (AAC)</h3>
       <div class="issuer">International Institute of Business Analysis (IIBA)</div>
       <div class="year">2023</div>
