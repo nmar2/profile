@@ -164,6 +164,18 @@ layout: default
       <a class="pdf" href="./RefeOrga.pdf" target="_blank">📄 PDF</a>
     </div>
   </div>
+
+    <div class="refe-card">
+    <div>
+      <h3>Reference in Linkedin</h3>
+      <div class="issuer">Colleagues of various companies</div>
+      <div class="year">2007-2023</div>
+    </div>
+    <div class="refe-links">
+      <a class="pdf" href="./RefeLinkedin.pdf" target="_blank">📄 PDF</a>
+    </div>
+  </div>
+
   
 
 </div>
