@@ -167,7 +167,7 @@ layout: default
 
     <div class="refe-card">
     <div>
-      <h3>Reference in Linkedin</h3>
+      <h3>References in Linkedin</h3>
       <div class="issuer">Colleagues of various companies</div>
       <div class="year">2007-2023</div>
     </div>
