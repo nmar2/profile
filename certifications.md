@@ -96,6 +96,7 @@ layout: default
     </div>
     <div class="cert-links">
      <a class="link" href="https://www.youracclaim.com/badges/d9f89ee2-cc0f-47a0-b7e8-866b2f1b2d84/public_url" target="_blank">🔗 Verify</a>
+     <a class="pdf" href="./IBM_ExpPM.pdf" target="_blank">📄 PDF</a>
     </div>
   </div>
 
