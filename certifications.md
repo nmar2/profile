@@ -179,6 +179,17 @@ layout: default
 
   <div class="cert-card">
     <div>
+      <h3>BA Proficiency Profile (2020)</h3>
+      <div class="issuer">IKM TeckChek</div>
+      <div class="year">2020</div>
+    </div>
+    <div class="cert-links">
+      <a class="pdf" href="./BA_ProficiencyProfile_2020.pdf" target="_blank">📄 PDF</a>
+    </div>
+  </div>
+
+  <div class="cert-card">
+    <div>
       <h3>Leveraging the Customer Relationship Certificate of Completion</h3>
       <div class="issuer">Stanford University</div>
       <div class="year">2014</div>
