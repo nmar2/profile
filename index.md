@@ -32,7 +32,7 @@ Outside of work, I recharge through travel, cooking, wine tasting, thermal welln
 - Service and task management platforms: Confluence, Jira, ServiceNow, IBM Maximo
 - Agile Project Management across distributed, international and multicultural teams
 - AI-augmented Business Analysis and Digital Transformation
-- Cloud migration (AWS), data modelling, Python and Power BI analytics
+- Cloud migration (AWS), data modelling, SQL, PL/SQL, Python and Power BI analytics
 - EU institutional IT governance and regulatory compliance
 - UX mockup design with Balsamiq
 
