@@ -135,6 +135,19 @@ layout: default
 
   <div class="cert-card">
     <div>
+      <h3>Python Developer Certified</h3>
+      <div class="issuer">freeCodeCamp</div>
+      <div class="year">2026</div>
+    </div>
+    <div class="cert-links">
+     <a class="link" href="https://www.freecodecamp.org/certification/fcc-1513f4af-5e79-462c-82d8-0e47e53f9e64/python-v9" target="_blank">🔗 Verify</a>
+     <a class="pdf" href="./PythonDeveloperCertification.pdf" target="_blank">📄 PDF</a>
+    </div>
+  </div>
+
+
+  <div class="cert-card">
+    <div>
       <h3>English C1</h3>
       <div class="issuer">EF Set</div>
       <div class="year">2026</div>
