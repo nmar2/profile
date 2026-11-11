@@ -35,4 +35,5 @@ Outside of work, I recharge through travel, cooking, wine tasting, thermal welln
 - Cloud migration (AWS), data modelling, SQL, PL/SQL, Python and Power BI analytics
 - EU institutional IT governance and regulatory compliance
 - UX mockup design with Balsamiq
+- [IIBA Member Article](https://www.iiba.org/iiba-business-analysis-member-articles/who-can-see-what-cracking-the-access-puzzle-in-complex-organizations/)
 
